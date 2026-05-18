@@ -7,7 +7,6 @@ Full Stack Engineer passionate about building AI-powered products, scalable back
 ## 🚀 About Me
 
 - Full Stack Developer focused on scalable applications
-- Experience building AI-powered industrial safety systems
 - Worked with YOLOv8, ByteTrack, OpenAI APIs, and MERN Stack
 - Interested in backend systems, AI applications, and real-time architectures
 - Based in Bengaluru, India
@@ -17,4 +16,4 @@ Full Stack Engineer passionate about building AI-powered products, scalable back
 ## 📫 Connect With Me
 
 - Email: vivekchavan942@gmail.com
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/vivek-chavan26/
